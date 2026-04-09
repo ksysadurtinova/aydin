@@ -1,0 +1,142 @@
+[
+  {
+    "text": "🎉 Big Music Festival coming up! Join us on 15/05/2024 at Central Park. Amazing lineup with DJs from around the world. Location: Central Park, NYC. Don't miss it!",
+    "channel": "music_events"
+  },
+  {
+    "text": "Tech Meetup: AI in Healthcare. Date: 20-05-2024. Time: 18:00. Venue: Tech Hub, Berlin. Register now!",
+    "channel": "tech_meetups"
+  },
+  {
+    "text": "Concert: Rock Legends Live. 25/05/2024, 20:00. Location: Stadium Arena. Tickets available.",
+    "channel": "concerts"
+  },
+  {
+    "text": "Workshop: Digital Marketing Strategies. Date: 30/05/2024. Time: 10:00 AM. Location: Conference Center, London.",
+    "channel": "workshops"
+  },
+  {
+    "text": "Party time! Beach Bash on 05/06/2024. Location: Miami Beach. Bring your friends!",
+    "channel": "parties"
+  },
+  {
+    "text": "Seminar: Future of Blockchain. 10/06/2024, 14:00. Venue: University Hall, Tokyo.",
+    "channel": "seminars"
+  },
+  {
+    "text": "Hackathon: Code for Good. Starts 15/06/2024. Location: Innovation Lab, San Francisco.",
+    "channel": "hackathons"
+  },
+  {
+    "text": "Festival: Food and Wine Expo. 20/06/2024. Location: Expo Center, Paris.",
+    "channel": "festivals"
+  },
+  {
+    "text": "Meeting: Startup Pitch Night. Date: 25/06/2024. Time: 19:00. Location: Startup Hub, New York.",
+    "channel": "meetings"
+  },
+  {
+    "text": "Show: Broadway Musical. 30/06/2024, 20:00. Location: Theater District, NYC.",
+    "channel": "shows"
+  },
+  {
+    "text": "Evento: Festival de Música en Madrid. Fecha: 05/07/2024. Lugar: Parque del Retiro.",
+    "channel": "eventos_es"
+  },
+  {
+    "text": "Réunion: Discussion sur l'IA. Date: 10/07/2024. Heure: 16:00. Lieu: Centre de Conférences, Paris.",
+    "channel": "reunions_fr"
+  },
+  {
+    "text": "Concerto: Orchestra Sinfonica. 15/07/2024, 19:30. Luogo: Teatro alla Scala, Milano.",
+    "channel": "concerti_it"
+  },
+  {
+    "text": "Workshop: Fotografia Digitale. Data: 20/07/2024. Ora: 11:00. Luogo: Accademia delle Arti, Roma.",
+    "channel": "workshops_it"
+  },
+  {
+    "text": "Fiesta: Baile Latino. Fecha: 25/07/2024. Lugar: Plaza Mayor, Madrid.",
+    "channel": "fiestas_es"
+  },
+  {
+    "text": "Séminaire: Économie Durable. 30/07/2024, 14:00. Lieu: Université de Lyon.",
+    "channel": "seminaires_fr"
+  },
+  {
+    "text": "Hackathon: Développement Web. Commence le 05/08/2024. Lieu: Labo Innovation, Lyon.",
+    "channel": "hackathons_fr"
+  },
+  {
+    "text": "Festival: Arte e Cultura. 10/08/2024. Luogo: Piazza Duomo, Firenze.",
+    "channel": "festivals_it"
+  },
+  {
+    "text": "Incontro: Networking per Imprenditori. Data: 15/08/2024. Ora: 18:00. Luogo: Business Center, Milano.",
+    "channel": "incontri_it"
+  },
+  {
+    "text": "Espectáculo: Teatro Clásico. 20/08/2024, 20:00. Lugar: Teatro Real, Madrid.",
+    "channel": "espectaculos_es"
+  },
+  {
+    "text": "Conférence: Intelligence Artificielle. Date: 25/08/2024. Heure: 15:00. Lieu: Sorbonne, Paris.",
+    "channel": "conferences_fr"
+  },
+  {
+    "text": "Concerto: Jazz Night. 30/08/2024, 21:00. Luogo: Blue Note, Roma.",
+    "channel": "concerti_it"
+  },
+  {
+    "text": "Evento Deportivo: Maratón Urbana. Fecha: 05/09/2024. Lugar: Ciudad Deportiva, Barcelona.",
+    "channel": "deportes_es"
+  },
+  {
+    "text": "Rencontre: Atelier Créatif. Date: 10/09/2024. Heure: 10:00. Lieu: Atelier d'Art, Marseille.",
+    "channel": "rencontres_fr"
+  },
+  {
+    "text": "Spettacolo: Balletto Classico. 15/09/2024, 19:00. Luogo: Teatro dell'Opera, Firenze.",
+    "channel": "spettacoli_it"
+  },
+  {
+    "text": "Taller: Diseño Gráfico. Fecha: 20/09/2024. Hora: 14:00. Lugar: Centro de Diseño, Valencia.",
+    "channel": "talleres_es"
+  },
+  {
+    "text": "Colloque: Sciences de l'Environnement. 25/09/2024, 13:00. Lieu: Musée des Sciences, Toulouse.",
+    "channel": "colloques_fr"
+  },
+  {
+    "text": "Hackathon: IA et Machine Learning. Du 30/09/2024 au 01/10/2024. Lieu: Campus Numérique, Paris.",
+    "channel": "hackathons_fr"
+  },
+  {
+    "text": "Festival: Cinema Indipendente. 05/10/2024. Luogo: Cinema Teatro, Venezia.",
+    "channel": "festivals_it"
+  },
+  {
+    "text": "Encuentro: Literatura Moderna. Fecha: 10/10/2024. Hora: 17:00. Lugar: Biblioteca Nacional, Madrid.",
+    "channel": "encuentros_es"
+  },
+  {
+    "text": "Séance: Méditation et Bien-être. Date: 15/10/2024. Heure: 09:00. Lieu: Centre de Yoga, Nice.",
+    "channel": "seances_fr"
+  },
+  {
+    "text": "Mostra: Arte Contemporanea. 20/10/2024. Luogo: Galleria d'Arte, Milano.",
+    "channel": "mostre_it"
+  },
+  {
+    "text": "Charla: Innovación Tecnológica. Fecha: 25/10/2024. Hora: 16:00. Lugar: Auditorio Tecnológico, Barcelona.",
+    "channel": "charlas_es"
+  },
+  {
+    "text": "Débat: Politique Internationale. Date: 30/10/2024. Heure: 18:00. Lieu: Maison de la Culture, Strasbourg.",
+    "channel": "debats_fr"
+  },
+  {
+    "text": "Concerto: Musica Classica. 05/11/2024, 20:00. Luogo: Auditorium, Bologna.",
+    "channel": "concerti_it"
+  }
+]
